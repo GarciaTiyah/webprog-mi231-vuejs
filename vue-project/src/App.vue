@@ -4,6 +4,7 @@
   <food-item2/><br>
   <food-item/><br>
   <personal-profile/><br>
+  <rest-api/>
 </template>
 
 <script></script>
